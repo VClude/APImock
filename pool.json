@@ -1,0 +1,5874 @@
+[
+    {
+      "id": 102,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_abaddon.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_abaddon.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_abaddon.png",
+      "name": "Abaddon",
+      "abilities": [
+        {
+          "id": 5585,
+          "name": "Mist Coil",
+          "image": "http://localhost/APImock/abilities/abaddon_death_coil.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5586,
+          "name": "Aphotic Shield",
+          "image": "http://localhost/APImock/abilities/abaddon_aphotic_shield.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5587,
+          "name": "Curse of Avernus",
+          "image": "http://localhost/APImock/abilities/abaddon_frostmourne.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5588,
+          "name": "Borrowed Time",
+          "image": "http://localhost/APImock/abilities/abaddon_borrowed_time.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_alchemist.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_alchemist.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_alchemist.png",
+      "name": "Alchemist",
+      "abilities": [
+        {
+          "id": 5365,
+          "name": "Acid Spray",
+          "image": "http://localhost/APImock/abilities/alchemist_acid_spray.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5366,
+          "name": "Unstable Concoction",
+          "image": "http://localhost/APImock/abilities/alchemist_unstable_concoction.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5368,
+          "name": "Greevil's Greed",
+          "image": "http://localhost/APImock/abilities/alchemist_goblins_greed.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5369,
+          "name": "Chemical Rage",
+          "image": "http://localhost/APImock/abilities/alchemist_chemical_rage.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_ancient_apparition.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_ancient_apparition.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_ancient_apparition.png",
+      "name": "Ancient Apparition",
+      "abilities": [
+        {
+          "id": 5345,
+          "name": "Cold Feet",
+          "image": "http://localhost/APImock/abilities/ancient_apparition_cold_feet.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5346,
+          "name": "Ice Vortex",
+          "image": "http://localhost/APImock/abilities/ancient_apparition_ice_vortex.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5347,
+          "name": "Chilling Touch",
+          "image": "http://localhost/APImock/abilities/ancient_apparition_chilling_touch.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5348,
+          "name": "Ice Blast",
+          "image": "http://localhost/APImock/abilities/ancient_apparition_ice_blast.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_antimage.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_antimage.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_antimage.png",
+      "name": "Anti-Mage",
+      "abilities": [
+        {
+          "id": 5003,
+          "name": "Mana Break",
+          "image": "http://localhost/APImock/abilities/antimage_mana_break.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5004,
+          "name": "Blink",
+          "image": "http://localhost/APImock/abilities/antimage_blink.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7314,
+          "name": "Counterspell",
+          "image": "http://localhost/APImock/abilities/antimage_counterspell.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5006,
+          "name": "Mana Void",
+          "image": "http://localhost/APImock/abilities/antimage_mana_void.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_arc_warden.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_arc_warden.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_arc_warden.png",
+      "name": "Arc Warden",
+      "abilities": [
+        {
+          "id": 5677,
+          "name": "Flux",
+          "image": "http://localhost/APImock/abilities/arc_warden_flux.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5678,
+          "name": "Magnetic Field",
+          "image": "http://localhost/APImock/abilities/arc_warden_magnetic_field.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5679,
+          "name": "Spark Wraith",
+          "image": "http://localhost/APImock/abilities/arc_warden_spark_wraith.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7854,
+          "name": "Rune Forge",
+          "image": "http://localhost/APImock/abilities/arc_warden_scepter.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": false
+        },
+        {
+          "id": 5683,
+          "name": "Tempest Double",
+          "image": "http://localhost/APImock/abilities/arc_warden_tempest_double.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_axe.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_axe.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_axe.png",
+      "name": "Axe",
+      "abilities": [
+        {
+          "id": 5007,
+          "name": "Berserker's Call",
+          "image": "http://localhost/APImock/abilities/axe_berserkers_call.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5008,
+          "name": "Battle Hunger",
+          "image": "http://localhost/APImock/abilities/axe_battle_hunger.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5009,
+          "name": "Counter Helix",
+          "image": "http://localhost/APImock/abilities/axe_counter_helix.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5010,
+          "name": "Culling Blade",
+          "image": "http://localhost/APImock/abilities/axe_culling_blade.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_bane.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_bane.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_bane.png",
+      "name": "Bane",
+      "abilities": [
+        {
+          "id": 5014,
+          "name": "Nightmare",
+          "image": "http://localhost/APImock/abilities/bane_nightmare.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5011,
+          "name": "Brain Sap",
+          "image": "http://localhost/APImock/abilities/bane_brain_sap.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5012,
+          "name": "Enfeeble",
+          "image": "http://localhost/APImock/abilities/bane_enfeeble.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5013,
+          "name": "Fiend's Grip",
+          "image": "http://localhost/APImock/abilities/bane_fiends_grip.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_batrider.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_batrider.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_batrider.png",
+      "name": "Batrider",
+      "abilities": [
+        {
+          "id": 5320,
+          "name": "Sticky Napalm",
+          "image": "http://localhost/APImock/abilities/batrider_sticky_napalm.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5321,
+          "name": "Flamebreak",
+          "image": "http://localhost/APImock/abilities/batrider_flamebreak.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5322,
+          "name": "Firefly",
+          "image": "http://localhost/APImock/abilities/batrider_firefly.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5323,
+          "name": "Flaming Lasso",
+          "image": "http://localhost/APImock/abilities/batrider_flaming_lasso.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_beastmaster.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_beastmaster.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_beastmaster.png",
+      "name": "Beastmaster",
+      "abilities": [
+        {
+          "id": 5168,
+          "name": "Wild Axes",
+          "image": "http://localhost/APImock/abilities/beastmaster_wild_axes.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7230,
+          "name": "Call of the Wild Boar",
+          "image": "http://localhost/APImock/abilities/beastmaster_call_of_the_wild_boar.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7231,
+          "name": "Call of the Wild Hawk",
+          "image": "http://localhost/APImock/abilities/beastmaster_call_of_the_wild_hawk.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5172,
+          "name": "Inner Beast",
+          "image": "http://localhost/APImock/abilities/beastmaster_inner_beast.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5177,
+          "name": "Primal Roar",
+          "image": "http://localhost/APImock/abilities/beastmaster_primal_roar.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_bloodseeker.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_bloodseeker.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_bloodseeker.png",
+      "name": "Bloodseeker",
+      "abilities": [
+        {
+          "id": 5015,
+          "name": "Bloodrage",
+          "image": "http://localhost/APImock/abilities/bloodseeker_bloodrage.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5016,
+          "name": "Blood Rite",
+          "image": "http://localhost/APImock/abilities/bloodseeker_blood_bath.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5017,
+          "name": "Thirst",
+          "image": "http://localhost/APImock/abilities/bloodseeker_thirst.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5018,
+          "name": "Rupture",
+          "image": "http://localhost/APImock/abilities/bloodseeker_rupture.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_bounty_hunter.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_bounty_hunter.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_bounty_hunter.png",
+      "name": "Bounty Hunter",
+      "abilities": [
+        {
+          "id": 5285,
+          "name": "Shuriken Toss",
+          "image": "http://localhost/APImock/abilities/bounty_hunter_shuriken_toss.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5286,
+          "name": "Jinada",
+          "image": "http://localhost/APImock/abilities/bounty_hunter_jinada.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5287,
+          "name": "Shadow Walk",
+          "image": "http://localhost/APImock/abilities/bounty_hunter_wind_walk.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5288,
+          "name": "Track",
+          "image": "http://localhost/APImock/abilities/bounty_hunter_track.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_brewmaster.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_brewmaster.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_brewmaster.png",
+      "name": "Brewmaster",
+      "abilities": [
+        {
+          "id": 5400,
+          "name": "Thunder Clap",
+          "image": "http://localhost/APImock/abilities/brewmaster_thunder_clap.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7310,
+          "name": "Cinder Brew",
+          "image": "http://localhost/APImock/abilities/brewmaster_cinder_brew.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5402,
+          "name": "Drunken Brawler",
+          "image": "http://localhost/APImock/abilities/brewmaster_drunken_brawler.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5403,
+          "name": "Primal Split",
+          "image": "http://localhost/APImock/abilities/brewmaster_primal_split.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_bristleback.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_bristleback.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_bristleback.png",
+      "name": "Bristleback",
+      "abilities": [
+        {
+          "id": 5548,
+          "name": "Viscous Nasal Goo",
+          "image": "http://localhost/APImock/abilities/bristleback_viscous_nasal_goo.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5549,
+          "name": "Quill Spray",
+          "image": "http://localhost/APImock/abilities/bristleback_quill_spray.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5550,
+          "name": "Bristleback",
+          "image": "http://localhost/APImock/abilities/bristleback_bristleback.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5551,
+          "name": "Warpath",
+          "image": "http://localhost/APImock/abilities/bristleback_warpath.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_broodmother.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_broodmother.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_broodmother.png",
+      "name": "Broodmother",
+      "abilities": [
+        {
+          "id": 5279,
+          "name": "Spawn Spiderlings",
+          "image": "http://localhost/APImock/abilities/broodmother_spawn_spiderlings.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5280,
+          "name": "Spin Web",
+          "image": "http://localhost/APImock/abilities/broodmother_spin_web.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5281,
+          "name": "Incapacitating Bite",
+          "image": "http://localhost/APImock/abilities/broodmother_incapacitating_bite.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5282,
+          "name": "Insatiable Hunger",
+          "image": "http://localhost/APImock/abilities/broodmother_insatiable_hunger.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_centaur.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_centaur.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_centaur.png",
+      "name": "Centaur Warrunner",
+      "abilities": [
+        {
+          "id": 5514,
+          "name": "Hoof Stomp",
+          "image": "http://localhost/APImock/abilities/centaur_hoof_stomp.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5515,
+          "name": "Double Edge",
+          "image": "http://localhost/APImock/abilities/centaur_double_edge.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5516,
+          "name": "Retaliate",
+          "image": "http://localhost/APImock/abilities/centaur_return.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5517,
+          "name": "Stampede",
+          "image": "http://localhost/APImock/abilities/centaur_stampede.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_chaos_knight.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_chaos_knight.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_chaos_knight.png",
+      "name": "Chaos Knight",
+      "abilities": [
+        {
+          "id": 5426,
+          "name": "Chaos Bolt",
+          "image": "http://localhost/APImock/abilities/chaos_knight_chaos_bolt.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5427,
+          "name": "Reality Rift",
+          "image": "http://localhost/APImock/abilities/chaos_knight_reality_rift.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5428,
+          "name": "Chaos Strike",
+          "image": "http://localhost/APImock/abilities/chaos_knight_chaos_strike.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5429,
+          "name": "Phantasm",
+          "image": "http://localhost/APImock/abilities/chaos_knight_phantasm.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_chen.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_chen.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_chen.png",
+      "name": "Chen",
+      "abilities": [
+        {
+          "id": 5328,
+          "name": "Penitence",
+          "image": "http://localhost/APImock/abilities/chen_penitence.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5330,
+          "name": "Holy Persuasion",
+          "image": "http://localhost/APImock/abilities/chen_holy_persuasion.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7306,
+          "name": "Divine Favor",
+          "image": "http://localhost/APImock/abilities/chen_divine_favor.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5331,
+          "name": "Hand of God",
+          "image": "http://localhost/APImock/abilities/chen_hand_of_god.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_clinkz.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_clinkz.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_clinkz.png",
+      "name": "Clinkz",
+      "abilities": [
+        {
+          "id": 5262,
+          "name": "Death Pact",
+          "image": "http://localhost/APImock/abilities/clinkz_death_pact.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5260,
+          "name": "Searing Arrows",
+          "image": "http://localhost/APImock/abilities/clinkz_searing_arrows.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5261,
+          "name": "Skeleton Walk",
+          "image": "http://localhost/APImock/abilities/clinkz_wind_walk.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7319,
+          "name": "Burning Army",
+          "image": "http://localhost/APImock/abilities/clinkz_burning_army.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_rattletrap.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_rattletrap.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_rattletrap.png",
+      "name": "Clockwerk",
+      "abilities": [
+        {
+          "id": 5237,
+          "name": "Battery Assault",
+          "image": "http://localhost/APImock/abilities/rattletrap_battery_assault.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5238,
+          "name": "Power Cogs",
+          "image": "http://localhost/APImock/abilities/rattletrap_power_cogs.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5239,
+          "name": "Rocket Flare",
+          "image": "http://localhost/APImock/abilities/rattletrap_rocket_flare.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 321,
+          "name": "Overclocking",
+          "image": "http://localhost/APImock/abilities/rattletrap_overclocking.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5240,
+          "name": "Hookshot",
+          "image": "http://localhost/APImock/abilities/rattletrap_hookshot.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_crystal_maiden.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_crystal_maiden.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_crystal_maiden.png",
+      "name": "Crystal Maiden",
+      "abilities": [
+        {
+          "id": 5126,
+          "name": "Crystal Nova",
+          "image": "http://localhost/APImock/abilities/crystal_maiden_crystal_nova.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5127,
+          "name": "Frostbite",
+          "image": "http://localhost/APImock/abilities/crystal_maiden_frostbite.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5128,
+          "name": "Arcane Aura",
+          "image": "http://localhost/APImock/abilities/crystal_maiden_brilliance_aura.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5129,
+          "name": "Freezing Field",
+          "image": "http://localhost/APImock/abilities/crystal_maiden_freezing_field.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_dark_seer.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_dark_seer.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_dark_seer.png",
+      "name": "Dark Seer",
+      "abilities": [
+        {
+          "id": 5255,
+          "name": "Vacuum",
+          "image": "http://localhost/APImock/abilities/dark_seer_vacuum.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5256,
+          "name": "Ion Shell",
+          "image": "http://localhost/APImock/abilities/dark_seer_ion_shell.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5257,
+          "name": "Surge",
+          "image": "http://localhost/APImock/abilities/dark_seer_surge.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5258,
+          "name": "Wall of Replica",
+          "image": "http://localhost/APImock/abilities/dark_seer_wall_of_replica.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_dark_willow.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_dark_willow.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_dark_willow.png",
+      "name": "Dark Willow",
+      "abilities": [
+        {
+          "id": 6339,
+          "name": "Bramble Maze",
+          "image": "http://localhost/APImock/abilities/dark_willow_bramble_maze.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6341,
+          "name": "Shadow Realm",
+          "image": "http://localhost/APImock/abilities/dark_willow_shadow_realm.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6342,
+          "name": "Cursed Crown",
+          "image": "http://localhost/APImock/abilities/dark_willow_cursed_crown.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6340,
+          "name": "Bedlam",
+          "image": "http://localhost/APImock/abilities/dark_willow_bedlam.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 8340,
+          "name": "Terrorize",
+          "image": "http://localhost/APImock/abilities/dark_willow_terrorize.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_dazzle.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_dazzle.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_dazzle.png",
+      "name": "Dazzle",
+      "abilities": [
+        {
+          "id": 5233,
+          "name": "Poison Touch",
+          "image": "http://localhost/APImock/abilities/dazzle_poison_touch.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5234,
+          "name": "Shallow Grave",
+          "image": "http://localhost/APImock/abilities/dazzle_shallow_grave.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5235,
+          "name": "Shadow Wave",
+          "image": "http://localhost/APImock/abilities/dazzle_shadow_wave.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7304,
+          "name": "Bad Juju",
+          "image": "http://localhost/APImock/abilities/dazzle_bad_juju.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_death_prophet.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_death_prophet.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_death_prophet.png",
+      "name": "Death Prophet",
+      "abilities": [
+        {
+          "id": 5090,
+          "name": "Crypt Swarm",
+          "image": "http://localhost/APImock/abilities/death_prophet_carrion_swarm.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5091,
+          "name": "Silence",
+          "image": "http://localhost/APImock/abilities/death_prophet_silence.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5685,
+          "name": "Spirit Siphon",
+          "image": "http://localhost/APImock/abilities/death_prophet_spirit_siphon.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5093,
+          "name": "Exorcism",
+          "image": "http://localhost/APImock/abilities/death_prophet_exorcism.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_disruptor.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_disruptor.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_disruptor.png",
+      "name": "Disruptor",
+      "abilities": [
+        {
+          "id": 5458,
+          "name": "Thunder Strike",
+          "image": "http://localhost/APImock/abilities/disruptor_thunder_strike.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5459,
+          "name": "Glimpse",
+          "image": "http://localhost/APImock/abilities/disruptor_glimpse.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5460,
+          "name": "Kinetic Field",
+          "image": "http://localhost/APImock/abilities/disruptor_kinetic_field.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5461,
+          "name": "Static Storm",
+          "image": "http://localhost/APImock/abilities/disruptor_static_storm.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_doom_bringer.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_doom_bringer.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_doom_bringer.png",
+      "name": "Doom",
+      "abilities": [
+        {
+          "id": 5339,
+          "name": "Devour",
+          "image": "http://localhost/APImock/abilities/doom_bringer_devour.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5340,
+          "name": "Scorched Earth",
+          "image": "http://localhost/APImock/abilities/doom_bringer_scorched_earth.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5341,
+          "name": "Infernal Blade",
+          "image": "http://localhost/APImock/abilities/doom_bringer_infernal_blade.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5342,
+          "name": "Doom",
+          "image": "http://localhost/APImock/abilities/doom_bringer_doom.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_dragon_knight.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_dragon_knight.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_dragon_knight.png",
+      "name": "Dragon Knight",
+      "abilities": [
+        {
+          "id": 5226,
+          "name": "Breathe Fire",
+          "image": "http://localhost/APImock/abilities/dragon_knight_breathe_fire.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5227,
+          "name": "Dragon Tail",
+          "image": "http://localhost/APImock/abilities/dragon_knight_dragon_tail.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5228,
+          "name": "Dragon Blood",
+          "image": "http://localhost/APImock/abilities/dragon_knight_dragon_blood.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5229,
+          "name": "Elder Dragon Form",
+          "image": "http://localhost/APImock/abilities/dragon_knight_elder_dragon_form.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_drow_ranger.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_drow_ranger.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_drow_ranger.png",
+      "name": "Drow Ranger",
+      "abilities": [
+        {
+          "id": 5019,
+          "name": "Frost Arrows",
+          "image": "http://localhost/APImock/abilities/drow_ranger_frost_arrows.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5632,
+          "name": "Gust",
+          "image": "http://localhost/APImock/abilities/drow_ranger_wave_of_silence.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 343,
+          "name": "Multishot",
+          "image": "http://localhost/APImock/abilities/drow_ranger_multishot.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5022,
+          "name": "Marksmanship",
+          "image": "http://localhost/APImock/abilities/drow_ranger_marksmanship.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "enabled": false,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_earth_spirit.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_earth_spirit.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_earth_spirit.png",
+      "name": "Earth Spirit",
+      "abilities": [
+        {
+          "id": 5608,
+          "name": "Boulder Smash",
+          "image": "http://localhost/APImock/abilities/earth_spirit_boulder_smash.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5609,
+          "name": "Rolling Boulder",
+          "image": "http://localhost/APImock/abilities/earth_spirit_rolling_boulder.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5610,
+          "name": "Geomagnetic Grip",
+          "image": "http://localhost/APImock/abilities/earth_spirit_geomagnetic_grip.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5611,
+          "name": "Stone Remnant",
+          "image": "http://localhost/APImock/abilities/earth_spirit_stone_caller.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5648,
+          "name": "Enchant Remnant",
+          "image": "http://localhost/APImock/abilities/earth_spirit_petrify.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": false
+        },
+        {
+          "id": 5612,
+          "name": "Magnetize",
+          "image": "http://localhost/APImock/abilities/earth_spirit_magnetize.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_earthshaker.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_earthshaker.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_earthshaker.png",
+      "name": "Earthshaker",
+      "abilities": [
+        {
+          "id": 5023,
+          "name": "Fissure",
+          "image": "http://localhost/APImock/abilities/earthshaker_fissure.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5024,
+          "name": "Enchant Totem",
+          "image": "http://localhost/APImock/abilities/earthshaker_enchant_totem.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5025,
+          "name": "Aftershock",
+          "image": "http://localhost/APImock/abilities/earthshaker_aftershock.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5026,
+          "name": "Echo Slam",
+          "image": "http://localhost/APImock/abilities/earthshaker_echo_slam.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_elder_titan.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_elder_titan.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_elder_titan.png",
+      "name": "Elder Titan",
+      "abilities": [
+        {
+          "id": 5589,
+          "name": "Echo Stomp",
+          "image": "http://localhost/APImock/abilities/elder_titan_echo_stomp.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5591,
+          "name": "Astral Spirit",
+          "image": "http://localhost/APImock/abilities/elder_titan_ancestral_spirit.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5593,
+          "name": "Natural Order",
+          "image": "http://localhost/APImock/abilities/elder_titan_natural_order.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5594,
+          "name": "Earth Splitter",
+          "image": "http://localhost/APImock/abilities/elder_titan_earth_splitter.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_ember_spirit.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_ember_spirit.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_ember_spirit.png",
+      "name": "Ember Spirit",
+      "abilities": [
+        {
+          "id": 5603,
+          "name": "Searing Chains",
+          "image": "http://localhost/APImock/abilities/ember_spirit_searing_chains.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5604,
+          "name": "Sleight of Fist",
+          "image": "http://localhost/APImock/abilities/ember_spirit_sleight_of_fist.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5605,
+          "name": "Flame Guard",
+          "image": "http://localhost/APImock/abilities/ember_spirit_flame_guard.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5606,
+          "name": "Fire Remnant",
+          "image": "http://localhost/APImock/abilities/ember_spirit_fire_remnant.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_enchantress.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_enchantress.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_enchantress.png",
+      "name": "Enchantress",
+      "abilities": [
+        {
+          "id": 5270,
+          "name": "Impetus",
+          "image": "http://localhost/APImock/abilities/enchantress_impetus.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5268,
+          "name": "Enchant",
+          "image": "http://localhost/APImock/abilities/enchantress_enchant.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5269,
+          "name": "Nature's Attendants",
+          "image": "http://localhost/APImock/abilities/enchantress_natures_attendants.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 320,
+          "name": "Sproink",
+          "image": "http://localhost/APImock/abilities/enchantress_bunny_hop.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5267,
+          "name": "Untouchable",
+          "image": "http://localhost/APImock/abilities/enchantress_untouchable.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_enigma.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_enigma.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_enigma.png",
+      "name": "Enigma",
+      "abilities": [
+        {
+          "id": 5146,
+          "name": "Malefice",
+          "image": "http://localhost/APImock/abilities/enigma_malefice.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5147,
+          "name": "Demonic Conversion",
+          "image": "http://localhost/APImock/abilities/enigma_demonic_conversion.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5148,
+          "name": "Midnight Pulse",
+          "image": "http://localhost/APImock/abilities/enigma_midnight_pulse.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5149,
+          "name": "Black Hole",
+          "image": "http://localhost/APImock/abilities/enigma_black_hole.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_faceless_void.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_faceless_void.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_faceless_void.png",
+      "name": "Faceless Void",
+      "abilities": [
+        {
+          "id": 5182,
+          "name": "Time Walk",
+          "image": "http://localhost/APImock/abilities/faceless_void_time_walk.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5691,
+          "name": "Time Dilation",
+          "image": "http://localhost/APImock/abilities/faceless_void_time_dilation.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5184,
+          "name": "Time Lock",
+          "image": "http://localhost/APImock/abilities/faceless_void_time_lock.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5185,
+          "name": "Chronosphere",
+          "image": "http://localhost/APImock/abilities/faceless_void_chronosphere.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_grimstroke.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_grimstroke.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_grimstroke.png",
+      "name": "Grimstroke",
+      "abilities": [
+        {
+          "id": 8000,
+          "name": "Stroke of Fate",
+          "image": "http://localhost/APImock/abilities/grimstroke_dark_artistry.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 8006,
+          "name": "Phantom's Embrace",
+          "image": "http://localhost/APImock/abilities/grimstroke_ink_creature.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 8007,
+          "name": "Ink Swell",
+          "image": "http://localhost/APImock/abilities/grimstroke_spirit_walk.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7852,
+          "name": "Dark Portrait",
+          "image": "http://localhost/APImock/abilities/grimstroke_scepter.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 6491,
+          "name": "Soulbind",
+          "image": "http://localhost/APImock/abilities/grimstroke_soul_chain.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_gyrocopter.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_gyrocopter.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_gyrocopter.png",
+      "name": "Gyrocopter",
+      "abilities": [
+        {
+          "id": 5361,
+          "name": "Rocket Barrage",
+          "image": "http://localhost/APImock/abilities/gyrocopter_rocket_barrage.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5362,
+          "name": "Homing Missile",
+          "image": "http://localhost/APImock/abilities/gyrocopter_homing_missile.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5363,
+          "name": "Flak Cannon",
+          "image": "http://localhost/APImock/abilities/gyrocopter_flak_cannon.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5364,
+          "name": "Call Down",
+          "image": "http://localhost/APImock/abilities/gyrocopter_call_down.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_huskar.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_huskar.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_huskar.png",
+      "name": "Huskar",
+      "abilities": [
+        {
+          "id": 7300,
+          "name": "Inner Fire",
+          "image": "http://localhost/APImock/abilities/huskar_inner_fire.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5272,
+          "name": "Burning Spear",
+          "image": "http://localhost/APImock/abilities/huskar_burning_spear.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5273,
+          "name": "Berserker's Blood",
+          "image": "http://localhost/APImock/abilities/huskar_berserkers_blood.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5274,
+          "name": "Life Break",
+          "image": "http://localhost/APImock/abilities/huskar_life_break.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "enabled": false,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_invoker.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_invoker.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_invoker.png",
+      "name": "Invoker",
+      "abilities": [
+        {
+          "id": 5370,
+          "name": "Quas",
+          "image": "http://localhost/APImock/abilities/invoker_quas.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5371,
+          "name": "Wex",
+          "image": "http://localhost/APImock/abilities/invoker_wex.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5372,
+          "name": "Exort",
+          "image": "http://localhost/APImock/abilities/invoker_exort.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5375,
+          "name": "Invoke",
+          "image": "http://localhost/APImock/abilities/invoker_invoke.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5386,
+          "name": "Sun Strike",
+          "image": "http://localhost/APImock/abilities/invoker_sun_strike.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_wisp.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_wisp.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_wisp.png",
+      "name": "Io",
+      "abilities": [
+        {
+          "id": 5485,
+          "name": "Tether",
+          "image": "http://localhost/APImock/abilities/wisp_tether.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5486,
+          "name": "Spirits",
+          "image": "http://localhost/APImock/abilities/wisp_spirits.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5487,
+          "name": "Overcharge",
+          "image": "http://localhost/APImock/abilities/wisp_overcharge.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5488,
+          "name": "Relocate",
+          "image": "http://localhost/APImock/abilities/wisp_relocate.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_jakiro.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_jakiro.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_jakiro.png",
+      "name": "Jakiro",
+      "abilities": [
+        {
+          "id": 5297,
+          "name": "Dual Breath",
+          "image": "http://localhost/APImock/abilities/jakiro_dual_breath.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5298,
+          "name": "Ice Path",
+          "image": "http://localhost/APImock/abilities/jakiro_ice_path.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5299,
+          "name": "Liquid Fire",
+          "image": "http://localhost/APImock/abilities/jakiro_liquid_fire.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5300,
+          "name": "Macropyre",
+          "image": "http://localhost/APImock/abilities/jakiro_macropyre.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_juggernaut.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_juggernaut.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_juggernaut.png",
+      "name": "Juggernaut",
+      "abilities": [
+        {
+          "id": 5028,
+          "name": "Blade Fury",
+          "image": "http://localhost/APImock/abilities/juggernaut_blade_fury.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5029,
+          "name": "Healing Ward",
+          "image": "http://localhost/APImock/abilities/juggernaut_healing_ward.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5027,
+          "name": "Blade Dance",
+          "image": "http://localhost/APImock/abilities/juggernaut_blade_dance.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 419,
+          "name": "Swiftslash",
+          "image": "http://localhost/APImock/abilities/juggernaut_swift_slash.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5030,
+          "name": "Omnislash",
+          "image": "http://localhost/APImock/abilities/juggernaut_omni_slash.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_keeper_of_the_light.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_keeper_of_the_light.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_keeper_of_the_light.png",
+      "name": "Keeper of the Light",
+      "abilities": [
+        {
+          "id": 5471,
+          "name": "Illuminate",
+          "image": "http://localhost/APImock/abilities/keeper_of_the_light_illuminate.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5476,
+          "name": "Blinding Light",
+          "image": "http://localhost/APImock/abilities/keeper_of_the_light_blinding_light.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5473,
+          "name": "Chakra Magic",
+          "image": "http://localhost/APImock/abilities/keeper_of_the_light_chakra_magic.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7316,
+          "name": "Will-O-Wisp",
+          "image": "http://localhost/APImock/abilities/keeper_of_the_light_will_o_wisp.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_kunkka.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_kunkka.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_kunkka.png",
+      "name": "Kunkka",
+      "abilities": [
+        {
+          "id": 5031,
+          "name": "Torrent",
+          "image": "http://localhost/APImock/abilities/kunkka_torrent.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5032,
+          "name": "Tidebringer",
+          "image": "http://localhost/APImock/abilities/kunkka_tidebringer.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5033,
+          "name": "X Marks the Spot",
+          "image": "http://localhost/APImock/abilities/kunkka_x_marks_the_spot.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 319,
+          "name": "Torrent Storm",
+          "image": "http://localhost/APImock/abilities/kunkka_torrent_storm.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": false
+        },
+        {
+          "id": 5035,
+          "name": "Ghostship",
+          "image": "http://localhost/APImock/abilities/kunkka_ghostship.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_legion_commander.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_legion_commander.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_legion_commander.png",
+      "name": "Legion Commander",
+      "abilities": [
+        {
+          "id": 5595,
+          "name": "Overwhelming Odds",
+          "image": "http://localhost/APImock/abilities/legion_commander_overwhelming_odds.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5596,
+          "name": "Press The Attack",
+          "image": "http://localhost/APImock/abilities/legion_commander_press_the_attack.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5597,
+          "name": "Moment of Courage",
+          "image": "http://localhost/APImock/abilities/legion_commander_moment_of_courage.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5598,
+          "name": "Duel",
+          "image": "http://localhost/APImock/abilities/legion_commander_duel.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_leshrac.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_leshrac.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_leshrac.png",
+      "name": "Leshrac",
+      "abilities": [
+        {
+          "id": 5241,
+          "name": "Split Earth",
+          "image": "http://localhost/APImock/abilities/leshrac_split_earth.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5242,
+          "name": "Diabolic Edict",
+          "image": "http://localhost/APImock/abilities/leshrac_diabolic_edict.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5243,
+          "name": "Lightning Storm",
+          "image": "http://localhost/APImock/abilities/leshrac_lightning_storm.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5244,
+          "name": "Pulse Nova",
+          "image": "http://localhost/APImock/abilities/leshrac_pulse_nova.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_lich.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_lich.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_lich.png",
+      "name": "Lich",
+      "abilities": [
+        {
+          "id": 5134,
+          "name": "Frost Blast",
+          "image": "http://localhost/APImock/abilities/lich_frost_nova.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5136,
+          "name": "Frost Shield",
+          "image": "http://localhost/APImock/abilities/lich_frost_shield.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7325,
+          "name": "Sinister Gaze",
+          "image": "http://localhost/APImock/abilities/lich_sinister_gaze.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5137,
+          "name": "Chain Frost",
+          "image": "http://localhost/APImock/abilities/lich_chain_frost.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_life_stealer.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_life_stealer.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_life_stealer.png",
+      "name": "Lifestealer",
+      "abilities": [
+        {
+          "id": 5249,
+          "name": "Rage",
+          "image": "http://localhost/APImock/abilities/life_stealer_rage.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5250,
+          "name": "Feast",
+          "image": "http://localhost/APImock/abilities/life_stealer_feast.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5251,
+          "name": "Open Wounds",
+          "image": "http://localhost/APImock/abilities/life_stealer_open_wounds.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5252,
+          "name": "Infest",
+          "image": "http://localhost/APImock/abilities/life_stealer_infest.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_lina.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_lina.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_lina.png",
+      "name": "Lina",
+      "abilities": [
+        {
+          "id": 5040,
+          "name": "Dragon Slave",
+          "image": "http://localhost/APImock/abilities/lina_dragon_slave.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5041,
+          "name": "Light Strike Array",
+          "image": "http://localhost/APImock/abilities/lina_light_strike_array.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5042,
+          "name": "Fiery Soul",
+          "image": "http://localhost/APImock/abilities/lina_fiery_soul.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5043,
+          "name": "Laguna Blade",
+          "image": "http://localhost/APImock/abilities/lina_laguna_blade.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_lion.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_lion.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_lion.png",
+      "name": "Lion",
+      "abilities": [
+        {
+          "id": 5044,
+          "name": "Earth Spike",
+          "image": "http://localhost/APImock/abilities/lion_impale.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5045,
+          "name": "Hex",
+          "image": "http://localhost/APImock/abilities/lion_voodoo.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5046,
+          "name": "Mana Drain",
+          "image": "http://localhost/APImock/abilities/lion_mana_drain.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5047,
+          "name": "Finger of Death",
+          "image": "http://localhost/APImock/abilities/lion_finger_of_death.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_lone_druid.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_lone_druid.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_lone_druid.png",
+      "name": "Lone Druid",
+      "abilities": [
+        {
+          "id": 5412,
+          "name": "Summon Spirit Bear",
+          "image": "http://localhost/APImock/abilities/lone_druid_spirit_bear.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7309,
+          "name": "Spirit Link",
+          "image": "http://localhost/APImock/abilities/lone_druid_spirit_link.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5414,
+          "name": "Savage Roar",
+          "image": "http://localhost/APImock/abilities/lone_druid_savage_roar.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5415,
+          "name": "True Form",
+          "image": "http://localhost/APImock/abilities/lone_druid_true_form.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_luna.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_luna.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_luna.png",
+      "name": "Luna",
+      "abilities": [
+        {
+          "id": 5222,
+          "name": "Lucent Beam",
+          "image": "http://localhost/APImock/abilities/luna_lucent_beam.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5223,
+          "name": "Moon Glaives",
+          "image": "http://localhost/APImock/abilities/luna_moon_glaive.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5224,
+          "name": "Lunar Blessing",
+          "image": "http://localhost/APImock/abilities/luna_lunar_blessing.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5225,
+          "name": "Eclipse",
+          "image": "http://localhost/APImock/abilities/luna_eclipse.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_lycan.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_lycan.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_lycan.png",
+      "name": "Lycan",
+      "abilities": [
+        {
+          "id": 5395,
+          "name": "Summon Wolves",
+          "image": "http://localhost/APImock/abilities/lycan_summon_wolves.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5396,
+          "name": "Howl",
+          "image": "http://localhost/APImock/abilities/lycan_howl.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5397,
+          "name": "Feral Impulse",
+          "image": "http://localhost/APImock/abilities/lycan_feral_impulse.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 333,
+          "name": "Wolf Bite",
+          "image": "http://localhost/APImock/abilities/lycan_wolf_bite.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5398,
+          "name": "Shapeshift",
+          "image": "http://localhost/APImock/abilities/lycan_shapeshift.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_magnataur.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_magnataur.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_magnataur.png",
+      "name": "Magnus",
+      "abilities": [
+        {
+          "id": 5518,
+          "name": "Shockwave",
+          "image": "http://localhost/APImock/abilities/magnataur_shockwave.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5519,
+          "name": "Empower",
+          "image": "http://localhost/APImock/abilities/magnataur_empower.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5520,
+          "name": "Skewer",
+          "image": "http://localhost/APImock/abilities/magnataur_skewer.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5521,
+          "name": "Reverse Polarity",
+          "image": "http://localhost/APImock/abilities/magnataur_reverse_polarity.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_mars.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_mars.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_mars.png",
+      "name": "Mars",
+      "abilities": [
+        {
+          "id": 6583,
+          "name": "Spear of Mars",
+          "image": "http://localhost/APImock/abilities/mars_spear.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6495,
+          "name": "God's Rebuke",
+          "image": "http://localhost/APImock/abilities/mars_gods_rebuke.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6582,
+          "name": "Bulwark",
+          "image": "http://localhost/APImock/abilities/mars_bulwark.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6598,
+          "name": "Arena Of Blood",
+          "image": "http://localhost/APImock/abilities/mars_arena_of_blood.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_medusa.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_medusa.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_medusa.png",
+      "name": "Medusa",
+      "abilities": [
+        {
+          "id": 5504,
+          "name": "Split Shot",
+          "image": "http://localhost/APImock/abilities/medusa_split_shot.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5505,
+          "name": "Mystic Snake",
+          "image": "http://localhost/APImock/abilities/medusa_mystic_snake.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5506,
+          "name": "Mana Shield",
+          "image": "http://localhost/APImock/abilities/medusa_mana_shield.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5507,
+          "name": "Stone Gaze",
+          "image": "http://localhost/APImock/abilities/medusa_stone_gaze.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_meepo.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_meepo.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_meepo.png",
+      "name": "Meepo",
+      "abilities": [
+        {
+          "id": 5430,
+          "name": "Earthbind",
+          "image": "http://localhost/APImock/abilities/meepo_earthbind.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5431,
+          "name": "Poof",
+          "image": "http://localhost/APImock/abilities/meepo_poof.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7318,
+          "name": "Ransack",
+          "image": "http://localhost/APImock/abilities/meepo_ransack.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5433,
+          "name": "Divided We Stand",
+          "image": "http://localhost/APImock/abilities/meepo_divided_we_stand.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_mirana.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_mirana.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_mirana.png",
+      "name": "Mirana",
+      "abilities": [
+        {
+          "id": 5051,
+          "name": "Starstorm",
+          "image": "http://localhost/APImock/abilities/mirana_starfall.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5048,
+          "name": "Sacred Arrow",
+          "image": "http://localhost/APImock/abilities/mirana_arrow.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5050,
+          "name": "Leap",
+          "image": "http://localhost/APImock/abilities/mirana_leap.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5049,
+          "name": "Moonlight Shadow",
+          "image": "http://localhost/APImock/abilities/mirana_invis.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_monkey_king.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_monkey_king.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_monkey_king.png",
+      "name": "Monkey King",
+      "abilities": [
+        {
+          "id": 5716,
+          "name": "Boundless Strike",
+          "image": "http://localhost/APImock/abilities/monkey_king_boundless_strike.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5721,
+          "name": "Tree Dance",
+          "image": "http://localhost/APImock/abilities/monkey_king_tree_dance.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5723,
+          "name": "Jingu Mastery",
+          "image": "http://localhost/APImock/abilities/monkey_king_jingu_mastery.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5725,
+          "name": "Wukong's Command",
+          "image": "http://localhost/APImock/abilities/monkey_king_wukongs_command.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_morphling.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_morphling.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_morphling.png",
+      "name": "Morphling",
+      "abilities": [
+        {
+          "id": 5052,
+          "name": "Waveform",
+          "image": "http://localhost/APImock/abilities/morphling_waveform.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5053,
+          "name": "Adaptive Strike (Agility)",
+          "image": "http://localhost/APImock/abilities/morphling_adaptive_strike_agi.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7000,
+          "name": "Adaptive Strike (Strength)",
+          "image": "http://localhost/APImock/abilities/morphling_adaptive_strike_str.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5055,
+          "name": "Attribute Shift (Agility Gain)",
+          "image": "http://localhost/APImock/abilities/morphling_morph_agi.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5056,
+          "name": "Attribute Shift (Strength Gain)",
+          "image": "http://localhost/APImock/abilities/morphling_morph_str.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5057,
+          "name": "Morph",
+          "image": "http://localhost/APImock/abilities/morphling_replicate.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_naga_siren.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_naga_siren.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_naga_siren.png",
+      "name": "Naga Siren",
+      "abilities": [
+        {
+          "id": 5467,
+          "name": "Mirror Image",
+          "image": "http://localhost/APImock/abilities/naga_siren_mirror_image.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5468,
+          "name": "Ensnare",
+          "image": "http://localhost/APImock/abilities/naga_siren_ensnare.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5469,
+          "name": "Rip Tide",
+          "image": "http://localhost/APImock/abilities/naga_siren_rip_tide.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5470,
+          "name": "Song of the Siren",
+          "image": "http://localhost/APImock/abilities/naga_siren_song_of_the_siren.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_furion.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_furion.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_furion.png",
+      "name": "Nature's Prophet",
+      "abilities": [
+        {
+          "id": 5245,
+          "name": "Sprout",
+          "image": "http://localhost/APImock/abilities/furion_sprout.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5246,
+          "name": "Teleportation",
+          "image": "http://localhost/APImock/abilities/furion_teleportation.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5247,
+          "name": "Nature's Call",
+          "image": "http://localhost/APImock/abilities/furion_force_of_nature.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5248,
+          "name": "Wrath of Nature",
+          "image": "http://localhost/APImock/abilities/furion_wrath_of_nature.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_necrolyte.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_necrolyte.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_necrolyte.png",
+      "name": "Necrophos",
+      "abilities": [
+        {
+          "id": 5158,
+          "name": "Death Pulse",
+          "image": "http://localhost/APImock/abilities/necrolyte_death_pulse.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5160,
+          "name": "Ghost Shroud",
+          "image": "http://localhost/APImock/abilities/necrolyte_sadist.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5159,
+          "name": "Heartstopper Aura",
+          "image": "http://localhost/APImock/abilities/necrolyte_heartstopper_aura.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5161,
+          "name": "Reaper's Scythe",
+          "image": "http://localhost/APImock/abilities/necrolyte_reapers_scythe.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_night_stalker.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_night_stalker.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_night_stalker.png",
+      "name": "Night Stalker",
+      "abilities": [
+        {
+          "id": 5275,
+          "name": "Void",
+          "image": "http://localhost/APImock/abilities/night_stalker_void.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5276,
+          "name": "Crippling Fear",
+          "image": "http://localhost/APImock/abilities/night_stalker_crippling_fear.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5277,
+          "name": "Hunter in the Night",
+          "image": "http://localhost/APImock/abilities/night_stalker_hunter_in_the_night.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5278,
+          "name": "Dark Ascension",
+          "image": "http://localhost/APImock/abilities/night_stalker_darkness.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_nyx_assassin.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_nyx_assassin.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_nyx_assassin.png",
+      "name": "Nyx Assassin",
+      "abilities": [
+        {
+          "id": 5462,
+          "name": "Impale",
+          "image": "http://localhost/APImock/abilities/nyx_assassin_impale.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5463,
+          "name": "Mana Burn",
+          "image": "http://localhost/APImock/abilities/nyx_assassin_mana_burn.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5464,
+          "name": "Spiked Carapace",
+          "image": "http://localhost/APImock/abilities/nyx_assassin_spiked_carapace.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5666,
+          "name": "Burrow",
+          "image": "http://localhost/APImock/abilities/nyx_assassin_burrow.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5465,
+          "name": "Vendetta",
+          "image": "http://localhost/APImock/abilities/nyx_assassin_vendetta.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_ogre_magi.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_ogre_magi.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_ogre_magi.png",
+      "name": "Ogre Magi",
+      "abilities": [
+        {
+          "id": 5438,
+          "name": "Fireblast",
+          "image": "http://localhost/APImock/abilities/ogre_magi_fireblast.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5439,
+          "name": "Ignite",
+          "image": "http://localhost/APImock/abilities/ogre_magi_ignite.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5440,
+          "name": "Bloodlust",
+          "image": "http://localhost/APImock/abilities/ogre_magi_bloodlust.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5466,
+          "name": "Unrefined Fireblast",
+          "image": "http://localhost/APImock/abilities/ogre_magi_unrefined_fireblast.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": false
+        },
+        {
+          "id": 5441,
+          "name": "Multicast",
+          "image": "http://localhost/APImock/abilities/ogre_magi_multicast.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_omniknight.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_omniknight.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_omniknight.png",
+      "name": "Omniknight",
+      "abilities": [
+        {
+          "id": 5263,
+          "name": "Purification",
+          "image": "http://localhost/APImock/abilities/omniknight_purification.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5264,
+          "name": "Heavenly Grace",
+          "image": "http://localhost/APImock/abilities/omniknight_repel.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5265,
+          "name": "Degen Aura",
+          "image": "http://localhost/APImock/abilities/omniknight_degen_aura.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5266,
+          "name": "Guardian Angel",
+          "image": "http://localhost/APImock/abilities/omniknight_guardian_angel.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_oracle.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_oracle.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_oracle.png",
+      "name": "Oracle",
+      "abilities": [
+        {
+          "id": 5637,
+          "name": "Fortune's End",
+          "image": "http://localhost/APImock/abilities/oracle_fortunes_end.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5638,
+          "name": "Fate's Edict",
+          "image": "http://localhost/APImock/abilities/oracle_fates_edict.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5639,
+          "name": "Purifying Flames",
+          "image": "http://localhost/APImock/abilities/oracle_purifying_flames.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5640,
+          "name": "False Promise",
+          "image": "http://localhost/APImock/abilities/oracle_false_promise.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_obsidian_destroyer.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_obsidian_destroyer.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_obsidian_destroyer.png",
+      "name": "Outworld Devourer",
+      "abilities": [
+        {
+          "id": 5391,
+          "name": "Arcane Orb",
+          "image": "http://localhost/APImock/abilities/obsidian_destroyer_arcane_orb.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5392,
+          "name": "Astral Imprisonment",
+          "image": "http://localhost/APImock/abilities/obsidian_destroyer_astral_imprisonment.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5684,
+          "name": "Essence Flux",
+          "image": "http://localhost/APImock/abilities/obsidian_destroyer_equilibrium.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5394,
+          "name": "Sanity's Eclipse",
+          "image": "http://localhost/APImock/abilities/obsidian_destroyer_sanity_eclipse.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_pangolier.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_pangolier.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_pangolier.png",
+      "name": "Pangolier",
+      "abilities": [
+        {
+          "id": 6344,
+          "name": "Swashbuckle",
+          "image": "http://localhost/APImock/abilities/pangolier_swashbuckle.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6461,
+          "name": "Shield Crash",
+          "image": "http://localhost/APImock/abilities/pangolier_shield_crash.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7307,
+          "name": "Lucky Shot",
+          "image": "http://localhost/APImock/abilities/pangolier_lucky_shot.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6343,
+          "name": "Rolling Thunder",
+          "image": "http://localhost/APImock/abilities/pangolier_gyroshell.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_phantom_assassin.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_phantom_assassin.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_phantom_assassin.png",
+      "name": "Phantom Assassin",
+      "abilities": [
+        {
+          "id": 5190,
+          "name": "Stifling Dagger",
+          "image": "http://localhost/APImock/abilities/phantom_assassin_stifling_dagger.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5191,
+          "name": "Phantom Strike",
+          "image": "http://localhost/APImock/abilities/phantom_assassin_phantom_strike.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5192,
+          "name": "Blur",
+          "image": "http://localhost/APImock/abilities/phantom_assassin_blur.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5193,
+          "name": "Coup de Grace",
+          "image": "http://localhost/APImock/abilities/phantom_assassin_coup_de_grace.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_phantom_lancer.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_phantom_lancer.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_phantom_lancer.png",
+      "name": "Phantom Lancer",
+      "abilities": [
+        {
+          "id": 5065,
+          "name": "Spirit Lance",
+          "image": "http://localhost/APImock/abilities/phantom_lancer_spirit_lance.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5066,
+          "name": "Doppelganger",
+          "image": "http://localhost/APImock/abilities/phantom_lancer_doppelwalk.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5068,
+          "name": "Phantom Rush",
+          "image": "http://localhost/APImock/abilities/phantom_lancer_phantom_edge.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5067,
+          "name": "Juxtapose",
+          "image": "http://localhost/APImock/abilities/phantom_lancer_juxtapose.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_phoenix.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_phoenix.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_phoenix.png",
+      "name": "Phoenix",
+      "abilities": [
+        {
+          "id": 5623,
+          "name": "Icarus Dive",
+          "image": "http://localhost/APImock/abilities/phoenix_icarus_dive.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5625,
+          "name": "Fire Spirits",
+          "image": "http://localhost/APImock/abilities/phoenix_fire_spirits.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5626,
+          "name": "Sun Ray",
+          "image": "http://localhost/APImock/abilities/phoenix_sun_ray.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5630,
+          "name": "Supernova",
+          "image": "http://localhost/APImock/abilities/phoenix_supernova.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_puck.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_puck.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_puck.png",
+      "name": "Puck",
+      "abilities": [
+        {
+          "id": 5069,
+          "name": "Illusory Orb",
+          "image": "http://localhost/APImock/abilities/puck_illusory_orb.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5071,
+          "name": "Waning Rift",
+          "image": "http://localhost/APImock/abilities/puck_waning_rift.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5072,
+          "name": "Phase Shift",
+          "image": "http://localhost/APImock/abilities/puck_phase_shift.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5073,
+          "name": "Dream Coil",
+          "image": "http://localhost/APImock/abilities/puck_dream_coil.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_pudge.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_pudge.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_pudge.png",
+      "name": "Pudge",
+      "abilities": [
+        {
+          "id": 5075,
+          "name": "Meat Hook",
+          "image": "http://localhost/APImock/abilities/pudge_meat_hook.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5076,
+          "name": "Rot",
+          "image": "http://localhost/APImock/abilities/pudge_rot.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5074,
+          "name": "Flesh Heap",
+          "image": "http://localhost/APImock/abilities/pudge_flesh_heap.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 322,
+          "name": "Eject",
+          "image": "http://localhost/APImock/abilities/pudge_eject.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5077,
+          "name": "Dismember",
+          "image": "http://localhost/APImock/abilities/pudge_dismember.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_pugna.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_pugna.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_pugna.png",
+      "name": "Pugna",
+      "abilities": [
+        {
+          "id": 5186,
+          "name": "Nether Blast",
+          "image": "http://localhost/APImock/abilities/pugna_nether_blast.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5187,
+          "name": "Decrepify",
+          "image": "http://localhost/APImock/abilities/pugna_decrepify.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5188,
+          "name": "Nether Ward",
+          "image": "http://localhost/APImock/abilities/pugna_nether_ward.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5189,
+          "name": "Life Drain",
+          "image": "http://localhost/APImock/abilities/pugna_life_drain.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_queenofpain.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_queenofpain.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_queenofpain.png",
+      "name": "Queen of Pain",
+      "abilities": [
+        {
+          "id": 5173,
+          "name": "Shadow Strike",
+          "image": "http://localhost/APImock/abilities/queenofpain_shadow_strike.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5174,
+          "name": "Blink",
+          "image": "http://localhost/APImock/abilities/queenofpain_blink.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5175,
+          "name": "Scream Of Pain",
+          "image": "http://localhost/APImock/abilities/queenofpain_scream_of_pain.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5176,
+          "name": "Sonic Wave",
+          "image": "http://localhost/APImock/abilities/queenofpain_sonic_wave.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_razor.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_razor.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_razor.png",
+      "name": "Razor",
+      "abilities": [
+        {
+          "id": 5082,
+          "name": "Plasma Field",
+          "image": "http://localhost/APImock/abilities/razor_plasma_field.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5083,
+          "name": "Static Link",
+          "image": "http://localhost/APImock/abilities/razor_static_link.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5084,
+          "name": "Storm Surge",
+          "image": "http://localhost/APImock/abilities/razor_unstable_current.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5085,
+          "name": "Eye of the Storm",
+          "image": "http://localhost/APImock/abilities/razor_eye_of_the_storm.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_riki.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_riki.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_riki.png",
+      "name": "Riki",
+      "abilities": [
+        {
+          "id": 5142,
+          "name": "Smoke Screen",
+          "image": "http://localhost/APImock/abilities/riki_smoke_screen.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5143,
+          "name": "Blink Strike",
+          "image": "http://localhost/APImock/abilities/riki_blink_strike.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5145,
+          "name": "Tricks of the Trade",
+          "image": "http://localhost/APImock/abilities/riki_tricks_of_the_trade.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5144,
+          "name": "Cloak and Dagger",
+          "image": "http://localhost/APImock/abilities/riki_backstab.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_rubick.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_rubick.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_rubick.png",
+      "name": "Rubick",
+      "abilities": [
+        {
+          "id": 5448,
+          "name": "Telekinesis",
+          "image": "http://localhost/APImock/abilities/rubick_telekinesis.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5450,
+          "name": "Fade Bolt",
+          "image": "http://localhost/APImock/abilities/rubick_fade_bolt.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7320,
+          "name": "Arcane Supremacy",
+          "image": "http://localhost/APImock/abilities/rubick_arcane_supremacy.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5452,
+          "name": "Spell Steal",
+          "image": "http://localhost/APImock/abilities/rubick_spell_steal.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_sand_king.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_sand_king.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_sand_king.png",
+      "name": "Sand King",
+      "abilities": [
+        {
+          "id": 5102,
+          "name": "Burrowstrike",
+          "image": "http://localhost/APImock/abilities/sandking_burrowstrike.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5103,
+          "name": "Sand Storm",
+          "image": "http://localhost/APImock/abilities/sandking_sand_storm.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5104,
+          "name": "Caustic Finale",
+          "image": "http://localhost/APImock/abilities/sandking_caustic_finale.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5105,
+          "name": "Epicenter",
+          "image": "http://localhost/APImock/abilities/sandking_epicenter.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "enabled": true,
+      "primary": false,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_shadow_demon.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_shadow_demon.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_shadow_demon.png",
+      "name": "Shadow Demon",
+      "abilities": [
+        {
+          "id": 5421,
+          "name": "Disruption",
+          "image": "http://localhost/APImock/abilities/shadow_demon_disruption.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5422,
+          "name": "Soul Catcher",
+          "image": "http://localhost/APImock/abilities/shadow_demon_soul_catcher.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5423,
+          "name": "Shadow Poison",
+          "image": "http://localhost/APImock/abilities/shadow_demon_shadow_poison.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5425,
+          "name": "Demonic Purge",
+          "image": "http://localhost/APImock/abilities/shadow_demon_demonic_purge.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_nevermore.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_nevermore.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_nevermore.png",
+      "name": "Shadow Fiend",
+      "abilities": [
+        {
+          "id": 5059,
+          "name": "Shadowraze",
+          "image": "http://localhost/APImock/abilities/nevermore_shadowraze1.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5060,
+          "name": "Shadowraze",
+          "image": "http://localhost/APImock/abilities/nevermore_shadowraze2.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5061,
+          "name": "Shadowraze",
+          "image": "http://localhost/APImock/abilities/nevermore_shadowraze3.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5062,
+          "name": "Necromastery",
+          "image": "http://localhost/APImock/abilities/nevermore_necromastery.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5063,
+          "name": "Presence of the Dark Lord",
+          "image": "http://localhost/APImock/abilities/nevermore_dark_lord.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5064,
+          "name": "Requiem of Souls",
+          "image": "http://localhost/APImock/abilities/nevermore_requiem.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_shadow_shaman.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_shadow_shaman.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_shadow_shaman.png",
+      "name": "Shadow Shaman",
+      "abilities": [
+        {
+          "id": 5078,
+          "name": "Ether Shock",
+          "image": "http://localhost/APImock/abilities/shadow_shaman_ether_shock.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5079,
+          "name": "Hex",
+          "image": "http://localhost/APImock/abilities/shadow_shaman_voodoo.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5080,
+          "name": "Shackles",
+          "image": "http://localhost/APImock/abilities/shadow_shaman_shackles.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5081,
+          "name": "Mass Serpent Ward",
+          "image": "http://localhost/APImock/abilities/shadow_shaman_mass_serpent_ward.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_silencer.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_silencer.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_silencer.png",
+      "name": "Silencer",
+      "abilities": [
+        {
+          "id": 5377,
+          "name": "Arcane Curse",
+          "image": "http://localhost/APImock/abilities/silencer_curse_of_the_silent.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5378,
+          "name": "Glaives of Wisdom",
+          "image": "http://localhost/APImock/abilities/silencer_glaives_of_wisdom.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5379,
+          "name": "Last Word",
+          "image": "http://localhost/APImock/abilities/silencer_last_word.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5380,
+          "name": "Global Silence",
+          "image": "http://localhost/APImock/abilities/silencer_global_silence.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_skywrath_mage.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_skywrath_mage.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_skywrath_mage.png",
+      "name": "Skywrath Mage",
+      "abilities": [
+        {
+          "id": 5581,
+          "name": "Arcane Bolt",
+          "image": "http://localhost/APImock/abilities/skywrath_mage_arcane_bolt.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5582,
+          "name": "Concussive Shot",
+          "image": "http://localhost/APImock/abilities/skywrath_mage_concussive_shot.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5583,
+          "name": "Ancient Seal",
+          "image": "http://localhost/APImock/abilities/skywrath_mage_ancient_seal.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5584,
+          "name": "Mystic Flare",
+          "image": "http://localhost/APImock/abilities/skywrath_mage_mystic_flare.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_slardar.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_slardar.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_slardar.png",
+      "name": "Slardar",
+      "abilities": [
+        {
+          "id": 5114,
+          "name": "Guardian Sprint",
+          "image": "http://localhost/APImock/abilities/slardar_sprint.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5115,
+          "name": "Slithereen Crush",
+          "image": "http://localhost/APImock/abilities/slardar_slithereen_crush.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5116,
+          "name": "Bash of the Deep",
+          "image": "http://localhost/APImock/abilities/slardar_bash.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5117,
+          "name": "Corrosive Haze",
+          "image": "http://localhost/APImock/abilities/slardar_amplify_damage.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_slark.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_slark.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_slark.png",
+      "name": "Slark",
+      "abilities": [
+        {
+          "id": 5494,
+          "name": "Dark Pact",
+          "image": "http://localhost/APImock/abilities/slark_dark_pact.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5495,
+          "name": "Pounce",
+          "image": "http://localhost/APImock/abilities/slark_pounce.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5496,
+          "name": "Essence Shift",
+          "image": "http://localhost/APImock/abilities/slark_essence_shift.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5497,
+          "name": "Shadow Dance",
+          "image": "http://localhost/APImock/abilities/slark_shadow_dance.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_snapfire.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_snapfire.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_snapfire.png",
+      "name": "Snapfire",
+      "abilities": [
+        {
+          "id": 6480,
+          "name": "Scatterblast",
+          "image": "http://localhost/APImock/abilities/snapfire_scatterblast.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6483,
+          "name": "Firesnap Cookie",
+          "image": "http://localhost/APImock/abilities/snapfire_firesnap_cookie.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6488,
+          "name": "Lil' Shredder",
+          "image": "http://localhost/APImock/abilities/snapfire_lil_shredder.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6484,
+          "name": "Gobble Up",
+          "image": "http://localhost/APImock/abilities/snapfire_gobble_up.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 6486,
+          "name": "Spit Out",
+          "image": "http://localhost/APImock/abilities/snapfire_spit_creep.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 6482,
+          "name": "Mortimer Kisses",
+          "image": "http://localhost/APImock/abilities/snapfire_mortimer_kisses.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_sniper.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_sniper.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_sniper.png",
+      "name": "Sniper",
+      "abilities": [
+        {
+          "id": 5154,
+          "name": "Shrapnel",
+          "image": "http://localhost/APImock/abilities/sniper_shrapnel.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5155,
+          "name": "Headshot",
+          "image": "http://localhost/APImock/abilities/sniper_headshot.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5156,
+          "name": "Take Aim",
+          "image": "http://localhost/APImock/abilities/sniper_take_aim.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5157,
+          "name": "Assassinate",
+          "image": "http://localhost/APImock/abilities/sniper_assassinate.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_spectre.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_spectre.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_spectre.png",
+      "name": "Spectre",
+      "abilities": [
+        {
+          "id": 5334,
+          "name": "Spectral Dagger",
+          "image": "http://localhost/APImock/abilities/spectre_spectral_dagger.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5335,
+          "name": "Desolate",
+          "image": "http://localhost/APImock/abilities/spectre_desolate.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5336,
+          "name": "Dispersion",
+          "image": "http://localhost/APImock/abilities/spectre_dispersion.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7851,
+          "name": "Shadow Step",
+          "image": "http://localhost/APImock/abilities/spectre_haunt_single.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5337,
+          "name": "Haunt",
+          "image": "http://localhost/APImock/abilities/spectre_haunt.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_spirit_breaker.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_spirit_breaker.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_spirit_breaker.png",
+      "name": "Spirit Breaker",
+      "abilities": [
+        {
+          "id": 5353,
+          "name": "Charge of Darkness",
+          "image": "http://localhost/APImock/abilities/spirit_breaker_charge_of_darkness.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7301,
+          "name": "Bulldoze",
+          "image": "http://localhost/APImock/abilities/spirit_breaker_bulldoze.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5355,
+          "name": "Greater Bash",
+          "image": "http://localhost/APImock/abilities/spirit_breaker_greater_bash.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5356,
+          "name": "Nether Strike",
+          "image": "http://localhost/APImock/abilities/spirit_breaker_nether_strike.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_storm_spirit.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_storm_spirit.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_storm_spirit.png",
+      "name": "Storm Spirit",
+      "abilities": [
+        {
+          "id": 5098,
+          "name": "Static Remnant",
+          "image": "http://localhost/APImock/abilities/storm_spirit_static_remnant.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5099,
+          "name": "Electric Vortex",
+          "image": "http://localhost/APImock/abilities/storm_spirit_electric_vortex.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5100,
+          "name": "Overload",
+          "image": "http://localhost/APImock/abilities/storm_spirit_overload.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5101,
+          "name": "Ball Lightning",
+          "image": "http://localhost/APImock/abilities/storm_spirit_ball_lightning.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_sven.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_sven.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_sven.png",
+      "name": "Sven",
+      "abilities": [
+        {
+          "id": 5094,
+          "name": "Storm Hammer",
+          "image": "http://localhost/APImock/abilities/sven_storm_bolt.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5095,
+          "name": "Great Cleave",
+          "image": "http://localhost/APImock/abilities/sven_great_cleave.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5096,
+          "name": "Warcry",
+          "image": "http://localhost/APImock/abilities/sven_warcry.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5097,
+          "name": "God's Strength",
+          "image": "http://localhost/APImock/abilities/sven_gods_strength.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_techies.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_techies.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_techies.png",
+      "name": "Techies",
+      "abilities": [
+        {
+          "id": 5599,
+          "name": "Proximity Mines",
+          "image": "http://localhost/APImock/abilities/techies_land_mines.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5600,
+          "name": "Stasis Trap",
+          "image": "http://localhost/APImock/abilities/techies_stasis_trap.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5601,
+          "name": "Blast Off!",
+          "image": "http://localhost/APImock/abilities/techies_suicide.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5644,
+          "name": "Minefield Sign",
+          "image": "http://localhost/APImock/abilities/techies_minefield_sign.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5602,
+          "name": "Remote Mines",
+          "image": "http://localhost/APImock/abilities/techies_remote_mines.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_templar_assassin.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_templar_assassin.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_templar_assassin.png",
+      "name": "Templar Assassin",
+      "abilities": [
+        {
+          "id": 5194,
+          "name": "Refraction",
+          "image": "http://localhost/APImock/abilities/templar_assassin_refraction.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5195,
+          "name": "Meld",
+          "image": "http://localhost/APImock/abilities/templar_assassin_meld.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5196,
+          "name": "Psi Blades",
+          "image": "http://localhost/APImock/abilities/templar_assassin_psi_blades.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7853,
+          "name": "Psionic Projection",
+          "image": "http://localhost/APImock/abilities/templar_assassin_trap_teleport.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5197,
+          "name": "Psionic Trap",
+          "image": "http://localhost/APImock/abilities/templar_assassin_psionic_trap.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_terrorblade.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_terrorblade.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_terrorblade.png",
+      "name": "Terrorblade",
+      "abilities": [
+        {
+          "id": 5619,
+          "name": "Reflection",
+          "image": "http://localhost/APImock/abilities/terrorblade_reflection.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5620,
+          "name": "Conjure Image",
+          "image": "http://localhost/APImock/abilities/terrorblade_conjure_image.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5621,
+          "name": "Metamorphosis",
+          "image": "http://localhost/APImock/abilities/terrorblade_metamorphosis.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 425,
+          "name": "Terror Wave",
+          "image": "http://localhost/APImock/abilities/terrorblade_terror_wave.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": false
+        },
+        {
+          "id": 5622,
+          "name": "Sunder",
+          "image": "http://localhost/APImock/abilities/terrorblade_sunder.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_tidehunter.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_tidehunter.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_tidehunter.png",
+      "name": "Tidehunter",
+      "abilities": [
+        {
+          "id": 5118,
+          "name": "Gush",
+          "image": "http://localhost/APImock/abilities/tidehunter_gush.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5119,
+          "name": "Kraken Shell",
+          "image": "http://localhost/APImock/abilities/tidehunter_kraken_shell.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5120,
+          "name": "Anchor Smash",
+          "image": "http://localhost/APImock/abilities/tidehunter_anchor_smash.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5121,
+          "name": "Ravage",
+          "image": "http://localhost/APImock/abilities/tidehunter_ravage.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_shredder.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_shredder.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_shredder.png",
+      "name": "Timbersaw",
+      "abilities": [
+        {
+          "id": 5524,
+          "name": "Whirling Death",
+          "image": "http://localhost/APImock/abilities/shredder_whirling_death.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5525,
+          "name": "Timber Chain",
+          "image": "http://localhost/APImock/abilities/shredder_timber_chain.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5526,
+          "name": "Reactive Armor",
+          "image": "http://localhost/APImock/abilities/shredder_reactive_armor.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5645,
+          "name": "Second Chakram",
+          "image": "http://localhost/APImock/abilities/shredder_chakram_2.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5527,
+          "name": "Chakram",
+          "image": "http://localhost/APImock/abilities/shredder_chakram.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_tinker.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_tinker.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_tinker.png",
+      "name": "Tinker",
+      "abilities": [
+        {
+          "id": 5150,
+          "name": "Laser",
+          "image": "http://localhost/APImock/abilities/tinker_laser.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5151,
+          "name": "Heat-Seeking Missile",
+          "image": "http://localhost/APImock/abilities/tinker_heat_seeking_missile.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5152,
+          "name": "March of the Machines",
+          "image": "http://localhost/APImock/abilities/tinker_march_of_the_machines.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5153,
+          "name": "Rearm",
+          "image": "http://localhost/APImock/abilities/tinker_rearm.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_tiny.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_tiny.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_tiny.png",
+      "name": "Tiny",
+      "abilities": [
+        {
+          "id": 5106,
+          "name": "Avalanche",
+          "image": "http://localhost/APImock/abilities/tiny_avalanche.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5107,
+          "name": "Toss",
+          "image": "http://localhost/APImock/abilities/tiny_toss.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5108,
+          "name": "Tree Grab",
+          "image": "http://localhost/APImock/abilities/tiny_tree_grab.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7850,
+          "name": "Tree Volley",
+          "image": "http://localhost/APImock/abilities/tiny_tree_channel.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": false
+        },
+        {
+          "id": 5109,
+          "name": "Grow",
+          "image": "http://localhost/APImock/abilities/tiny_grow.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_treant.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_treant.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_treant.png",
+      "name": "Treant Protector",
+      "abilities": [
+        {
+          "id": 338,
+          "name": "Nature's Grasp",
+          "image": "http://localhost/APImock/abilities/treant_natures_grasp.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5435,
+          "name": "Leech Seed",
+          "image": "http://localhost/APImock/abilities/treant_leech_seed.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5436,
+          "name": "Living Armor",
+          "image": "http://localhost/APImock/abilities/treant_living_armor.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5649,
+          "name": "Eyes In The Forest",
+          "image": "http://localhost/APImock/abilities/treant_eyes_in_the_forest.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5437,
+          "name": "Overgrowth",
+          "image": "http://localhost/APImock/abilities/treant_overgrowth.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_troll_warlord.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_troll_warlord.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_troll_warlord.png",
+      "name": "Troll Warlord",
+      "abilities": [
+        {
+          "id": 5508,
+          "name": "Berserker's Rage",
+          "image": "http://localhost/APImock/abilities/troll_warlord_berserkers_rage.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": false
+        },
+        {
+          "id": 5509,
+          "name": "Whirling Axes (Ranged)",
+          "image": "http://localhost/APImock/abilities/troll_warlord_whirling_axes_ranged.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5510,
+          "name": "Whirling Axes (Melee)",
+          "image": "http://localhost/APImock/abilities/troll_warlord_whirling_axes_melee.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5511,
+          "name": "Fervor",
+          "image": "http://localhost/APImock/abilities/troll_warlord_fervor.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5512,
+          "name": "Battle Trance",
+          "image": "http://localhost/APImock/abilities/troll_warlord_battle_trance.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_tusk.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_tusk.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_tusk.png",
+      "name": "Tusk",
+      "abilities": [
+        {
+          "id": 5565,
+          "name": "Ice Shards",
+          "image": "http://localhost/APImock/abilities/tusk_ice_shards.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5566,
+          "name": "Snowball",
+          "image": "http://localhost/APImock/abilities/tusk_snowball.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7322,
+          "name": "Tag Team",
+          "image": "http://localhost/APImock/abilities/tusk_tag_team.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5672,
+          "name": "Walrus Kick",
+          "image": "http://localhost/APImock/abilities/tusk_walrus_kick.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5568,
+          "name": "Walrus PUNCH!",
+          "image": "http://localhost/APImock/abilities/tusk_walrus_punch.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_abyssal_underlord.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_abyssal_underlord.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_abyssal_underlord.png",
+      "name": "Underlord",
+      "abilities": [
+        {
+          "id": 5613,
+          "name": "Firestorm",
+          "image": "http://localhost/APImock/abilities/abyssal_underlord_firestorm.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5614,
+          "name": "Pit of Malice",
+          "image": "http://localhost/APImock/abilities/abyssal_underlord_pit_of_malice.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5615,
+          "name": "Atrophy Aura",
+          "image": "http://localhost/APImock/abilities/abyssal_underlord_atrophy_aura.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5616,
+          "name": "Dark Rift",
+          "image": "http://localhost/APImock/abilities/abyssal_underlord_dark_rift.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_undying.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_undying.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_undying.png",
+      "name": "Undying",
+      "abilities": [
+        {
+          "id": 5442,
+          "name": "Decay",
+          "image": "http://localhost/APImock/abilities/undying_decay.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5443,
+          "name": "Soul Rip",
+          "image": "http://localhost/APImock/abilities/undying_soul_rip.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5444,
+          "name": "Tombstone",
+          "image": "http://localhost/APImock/abilities/undying_tombstone.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5447,
+          "name": "Flesh Golem",
+          "image": "http://localhost/APImock/abilities/undying_flesh_golem.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_ursa.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_ursa.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_ursa.png",
+      "name": "Ursa",
+      "abilities": [
+        {
+          "id": 5357,
+          "name": "Earthshock",
+          "image": "http://localhost/APImock/abilities/ursa_earthshock.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5358,
+          "name": "Overpower",
+          "image": "http://localhost/APImock/abilities/ursa_overpower.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5359,
+          "name": "Fury Swipes",
+          "image": "http://localhost/APImock/abilities/ursa_fury_swipes.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5360,
+          "name": "Enrage",
+          "image": "http://localhost/APImock/abilities/ursa_enrage.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_vengefulspirit.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_vengefulspirit.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_vengefulspirit.png",
+      "name": "Vengeful Spirit",
+      "abilities": [
+        {
+          "id": 5122,
+          "name": "Magic Missile",
+          "image": "http://localhost/APImock/abilities/vengefulspirit_magic_missile.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5124,
+          "name": "Wave of Terror",
+          "image": "http://localhost/APImock/abilities/vengefulspirit_wave_of_terror.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5123,
+          "name": "Vengeance Aura",
+          "image": "http://localhost/APImock/abilities/vengefulspirit_command_aura.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5125,
+          "name": "Nether Swap",
+          "image": "http://localhost/APImock/abilities/vengefulspirit_nether_swap.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_venomancer.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_venomancer.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_venomancer.png",
+      "name": "Venomancer",
+      "abilities": [
+        {
+          "id": 5178,
+          "name": "Venomous Gale",
+          "image": "http://localhost/APImock/abilities/venomancer_venomous_gale.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5179,
+          "name": "Poison Sting",
+          "image": "http://localhost/APImock/abilities/venomancer_poison_sting.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5180,
+          "name": "Plague Ward",
+          "image": "http://localhost/APImock/abilities/venomancer_plague_ward.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5181,
+          "name": "Poison Nova",
+          "image": "http://localhost/APImock/abilities/venomancer_poison_nova.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_viper.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_viper.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_viper.png",
+      "name": "Viper",
+      "abilities": [
+        {
+          "id": 5218,
+          "name": "Poison Attack",
+          "image": "http://localhost/APImock/abilities/viper_poison_attack.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5219,
+          "name": "Nethertoxin",
+          "image": "http://localhost/APImock/abilities/viper_nethertoxin.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5220,
+          "name": "Corrosive Skin",
+          "image": "http://localhost/APImock/abilities/viper_corrosive_skin.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5221,
+          "name": "Viper Strike",
+          "image": "http://localhost/APImock/abilities/viper_viper_strike.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_visage.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_visage.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_visage.png",
+      "name": "Visage",
+      "abilities": [
+        {
+          "id": 5480,
+          "name": "Grave Chill",
+          "image": "http://localhost/APImock/abilities/visage_grave_chill.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5481,
+          "name": "Soul Assumption",
+          "image": "http://localhost/APImock/abilities/visage_soul_assumption.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5482,
+          "name": "Gravekeeper's Cloak",
+          "image": "http://localhost/APImock/abilities/visage_gravekeepers_cloak.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5483,
+          "name": "Summon Familiars",
+          "image": "http://localhost/APImock/abilities/visage_summon_familiars.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_void_spirit.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_void_spirit.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_void_spirit.png",
+      "name": "Void Spirit",
+      "abilities": [
+        {
+          "id": 7701,
+          "name": "Aether Remnant",
+          "image": "http://localhost/APImock/abilities/void_spirit_aether_remnant.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6470,
+          "name": "Dissimilate",
+          "image": "http://localhost/APImock/abilities/void_spirit_dissimilate.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7710,
+          "name": "Resonant Pulse",
+          "image": "http://localhost/APImock/abilities/void_spirit_resonant_pulse.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 7705,
+          "name": "Astral Step",
+          "image": "http://localhost/APImock/abilities/void_spirit_astral_step.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_warlock.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_warlock.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_warlock.png",
+      "name": "Warlock",
+      "abilities": [
+        {
+          "id": 5162,
+          "name": "Fatal Bonds",
+          "image": "http://localhost/APImock/abilities/warlock_fatal_bonds.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5163,
+          "name": "Shadow Word",
+          "image": "http://localhost/APImock/abilities/warlock_shadow_word.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5164,
+          "name": "Upheaval",
+          "image": "http://localhost/APImock/abilities/warlock_upheaval.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5165,
+          "name": "Chaotic Offering",
+          "image": "http://localhost/APImock/abilities/warlock_rain_of_chaos.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_weaver.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_weaver.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_weaver.png",
+      "name": "Weaver",
+      "abilities": [
+        {
+          "id": 5289,
+          "name": "The Swarm",
+          "image": "http://localhost/APImock/abilities/weaver_the_swarm.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5290,
+          "name": "Shukuchi",
+          "image": "http://localhost/APImock/abilities/weaver_shukuchi.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5291,
+          "name": "Geminate Attack",
+          "image": "http://localhost/APImock/abilities/weaver_geminate_attack.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5292,
+          "name": "Time Lapse",
+          "image": "http://localhost/APImock/abilities/weaver_time_lapse.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_windrunner.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_windrunner.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_windrunner.png",
+      "name": "Windranger",
+      "abilities": [
+        {
+          "id": 5130,
+          "name": "Shackleshot",
+          "image": "http://localhost/APImock/abilities/windrunner_shackleshot.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5131,
+          "name": "Powershot",
+          "image": "http://localhost/APImock/abilities/windrunner_powershot.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5132,
+          "name": "Windrun",
+          "image": "http://localhost/APImock/abilities/windrunner_windrun.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5133,
+          "name": "Focus Fire",
+          "image": "http://localhost/APImock/abilities/windrunner_focusfire.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_winter_wyvern.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_winter_wyvern.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_winter_wyvern.png",
+      "name": "Winter Wyvern",
+      "abilities": [
+        {
+          "id": 5651,
+          "name": "Arctic Burn",
+          "image": "http://localhost/APImock/abilities/winter_wyvern_arctic_burn.png",
+          "isUltimate": false,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5652,
+          "name": "Splinter Blast",
+          "image": "http://localhost/APImock/abilities/winter_wyvern_splinter_blast.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5653,
+          "name": "Cold Embrace",
+          "image": "http://localhost/APImock/abilities/winter_wyvern_cold_embrace.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5654,
+          "name": "Winter's Curse",
+          "image": "http://localhost/APImock/abilities/winter_wyvern_winters_curse.png",
+          "isUltimate": true,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_witch_doctor.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_witch_doctor.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_witch_doctor.png",
+      "name": "Witch Doctor",
+      "abilities": [
+        {
+          "id": 5138,
+          "name": "Paralyzing Cask",
+          "image": "http://localhost/APImock/abilities/witch_doctor_paralyzing_cask.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5139,
+          "name": "Voodoo Restoration",
+          "image": "http://localhost/APImock/abilities/witch_doctor_voodoo_restoration.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5140,
+          "name": "Maledict",
+          "image": "http://localhost/APImock/abilities/witch_doctor_maledict.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5141,
+          "name": "Death Ward",
+          "image": "http://localhost/APImock/abilities/witch_doctor_death_ward.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_skeleton_king.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_skeleton_king.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_skeleton_king.png",
+      "name": "Wraith King",
+      "abilities": [
+        {
+          "id": 5086,
+          "name": "Wraithfire Blast",
+          "image": "http://localhost/APImock/abilities/skeleton_king_hellfire_blast.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5087,
+          "name": "Vampiric Aura",
+          "image": "http://localhost/APImock/abilities/skeleton_king_vampiric_aura.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5088,
+          "name": "Mortal Strike",
+          "image": "http://localhost/APImock/abilities/skeleton_king_mortal_strike.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5089,
+          "name": "Reincarnation",
+          "image": "http://localhost/APImock/abilities/skeleton_king_reincarnation.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "enabled": true,
+      "primary": true,
+      "imageBanner": "http://localhost/APImock/heroes/banner/npc_dota_hero_zuus.png",
+      "imageIcon": "http://localhost/APImock/heroes/icons/npc_dota_hero_zuus.png",
+      "imageProfile": "http://localhost/APImock/heroes/profile/npc_dota_hero_zuus.png",
+      "name": "Zeus",
+      "abilities": [
+        {
+          "id": 5110,
+          "name": "Arc Lightning",
+          "image": "http://localhost/APImock/abilities/zuus_arc_lightning.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5111,
+          "name": "Lightning Bolt",
+          "image": "http://localhost/APImock/abilities/zuus_lightning_bolt.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 5112,
+          "name": "Static Field",
+          "image": "http://localhost/APImock/abilities/zuus_static_field.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": false,
+          "enabled": true
+        },
+        {
+          "id": 6325,
+          "name": "Nimbus",
+          "image": "http://localhost/APImock/abilities/zuus_cloud.png",
+          "isUltimate": false,
+          "hasUpgrade": false,
+          "isGranted": true,
+          "enabled": true
+        },
+        {
+          "id": 5113,
+          "name": "Thundergod's Wrath",
+          "image": "http://localhost/APImock/abilities/zuus_thundergods_wrath.png",
+          "isUltimate": true,
+          "hasUpgrade": true,
+          "isGranted": false,
+          "enabled": true
+        }
+      ]
+    }
+  ]
